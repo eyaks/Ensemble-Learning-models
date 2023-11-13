@@ -1,3 +1,13 @@
+#In this project, we will analyze the French Open Damir database and build a machine learning 
+regression model to predict the reimbursed amount of healthcare benefits. We will train four 
+different models based on the concept of decision trees that use boosting or bagging or both. We will 
+use grid search to tune their parameters. Finally, we will evaluate them and choose the best one 
+according to specified metrics. The report includes an extensive analysis of the database, the social
+security system as well as an introduction to ensemble learning and different machine learning 
+techniques used
+
+
+
 #ommitting FLT columns for functional reasons
 cols=['ORG_CLE_REG', 'AGE_BEN_SNDS', 'BEN_RES_REG','BEN_CMU_TOP', 'BEN_QLT_COD', 'BEN_SEX_COD','DDP_SPE_COD','ETE_CAT_SNDS', 'ETE_REG_COD', 'ET
 E_TYP_SNDS','ETP_REG_COD','ETP_CAT_SNDS', 'MDT_TYP_COD', 'MFT_COD', 'PRS_FJH_TYP', 'SOI_ANN','SOI_MOI', 'ASU_NAT', 'ATT_NAT', 'CPL_COD', 'CPT_ENV_TYP'
