@@ -1,4 +1,3 @@
-# Data-Analysis-Porjects
 #ommitting FLT columns for functional reasons
 cols=['ORG_CLE_REG', 'AGE_BEN_SNDS', 'BEN_RES_REG','BEN_CMU_TOP', 'BEN_QLT_COD', 'BEN_SEX_COD','DDP_SPE_COD','ETE_CAT_SNDS', 'ETE_REG_COD', 'ET
 E_TYP_SNDS','ETP_REG_COD','ETP_CAT_SNDS', 'MDT_TYP_COD', 'MFT_COD', 'PRS_FJH_TYP', 'SOI_ANN','SOI_MOI', 'ASU_NAT', 'ATT_NAT', 'CPL_COD', 'CPT_ENV_TYP'
